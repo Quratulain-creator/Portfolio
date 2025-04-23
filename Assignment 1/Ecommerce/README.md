@@ -15,7 +15,7 @@ Check out the full design on Figma:
 ## ▶️ YouTube Walkthrough
 
 Watch the app walkthrough on YouTube:  
-📺 [Watch on YouTube](https://youtu.be/e1edxTqJnKk?si=kZwCHpdOmyYZS_UB)
+📺 [Watch on YouTube](https://youtube.com/shorts/5HaKKuhAK1Q?feature=share)
 
 ---
 
