@@ -23,7 +23,7 @@ This is a fully functional **React Native Marriage Hall Booking App** developed 
 ## ▶️ Project Demo
 
 Watch the full project demo on YouTube:  
-👉 [Marriage Hall Booking App - YouTube Video](https://www.youtube.com/watch?v=YOUR_ACTUAL_VIDEO_ID)
+👉 [Marriage Hall Booking App - YouTube Video](https://https://youtube.com/shorts/DCkEx5GSkTA?si=fpTBVzlSuytVHv_Z)
 
 > Replace `YOUR_ACTUAL_VIDEO_ID` with your real YouTube video ID.
 
@@ -56,4 +56,4 @@ README.md
 
 ## 📧 Contact
 
-For questions or collaboration, contact: `your-email@example.com`
+For questions or collaboration, contact: `quratulainabidhussain15@gmail.com`
